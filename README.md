@@ -3,17 +3,12 @@
 
 I'm a developer who has a serious passion for using code to make a difference in the world.
 
-### Technologies I enjoy:
+### Current Tech Stack:
 - ⚛️ReactJS 
-- 📱React Native 
+- 📱Flutter 
 - ☁️Firebase
 - 💻NodeJS
 
 ### Where to find me 🌍:
-- Where I share my learning journey [twitter](https://twitter.com/https://twitter.com/dacodingwolf)
 - Sharing updates [linkedIn](https://www.linkedin.com/in/sihle-kambula/)
 - Portfolio [sihlekambula](https://sihlekambula.com)
-- Life style [instagram](https://www.instagram.com/dacodingwolf/)
- 
-### Fun Fact⚡: 
-- 🐺I love wolves 
